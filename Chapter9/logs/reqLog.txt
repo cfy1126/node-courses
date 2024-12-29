@@ -260,3 +260,14 @@
 20241229	14:45:49	53601243-9403-42d5-bfe2-f2d2ec4bce0c	GET	undefined	/refresh
 20241229	14:45:53	f680fde2-a8e3-421d-b7e0-1d34c66e75ef	GET	undefined	/logout
 20241229	14:46:08	49af4a2b-9767-492b-8c29-0065ffb096fd	GET	undefined	/employees
+20241229	21:19:20	b0d956d4-da38-41e1-be23-1834d66a5e50	POST	undefined	/register
+20241229	21:21:31	d7ab0b5e-37d5-4408-9e68-4d8c3e3dfb35	POST	undefined	/register
+20241229	21:23:33	d80fe7ce-94bc-4e1c-836c-52c2e4fbf243	POST	undefined	/auth
+20241229	21:36:06	ae90b797-40ff-42a9-9870-761f3ecd0335	GET	undefined	/refresh
+20241229	21:46:11	9a45d726-8906-41c4-9799-0dd46708166e	GET	undefined	/refresh
+20241229	21:46:24	f3661ae1-1578-4f7b-adbd-45f956384615	GET	undefined	/refresh
+20241229	21:47:20	e8f625fe-9132-49f6-973a-6054165fbd48	GET	undefined	/logout
+20241229	22:11:34	2f604bb5-4eec-4b84-8dab-15b0871c5547	GET	undefined	/employees
+20241229	22:12:34	d037ecba-0a54-40ea-858f-d9b3a201a544	POST	undefined	/auth
+20241229	22:12:55	b67325b9-743e-415c-ba91-3462f087292b	GET	undefined	/employees
+20241229	22:21:11	7049a39d-861f-432f-87cf-18c85db2d76b	POST	undefined	/auth

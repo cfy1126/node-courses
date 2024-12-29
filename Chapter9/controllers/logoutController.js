@@ -18,6 +18,7 @@ const handleLogout = async (req, res) => {
     (person) => person.refreshToken === refreshToken
   );
   if (!foundUser) {
+    // 删除了客户端存储的jwt cookie
     res.clearCookie('jwt', { httpOnly: true, sameSite: 'None' });
     return res.sendStatus(204);
   }
